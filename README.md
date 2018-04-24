@@ -7,6 +7,7 @@ Much like iPhone's SIRI (Speech Interpretation and Recognition Interface), LIRI 
 TO USE:
 
 LIRI can take in the following commands:
+
     * my-tweets
         -- displays most recent tweets from program's creator
 
